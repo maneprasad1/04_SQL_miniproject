@@ -1,1 +1,1 @@
-# 04_SQL_miniprojec
+# 04_SQL_miniproject
